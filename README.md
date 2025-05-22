@@ -1,4 +1,4 @@
-# House-price-prediction-
+# House-price-prediction(USA)-
 
 🏡 House Price Prediction with XGBoost
 This project is a machine learning pipeline for predicting house prices using structured real estate data. The workflow includes data preprocessing, correlation analysis, outlier removal, label encoding, and model training with the powerful XGBoost algorithm. The final model achieved an impressive R² score of 75.35%, indicating strong predictive performance.
